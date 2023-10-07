@@ -4,7 +4,7 @@ from xml.etree import ElementTree as ET
 
 
 # get search term
-a = input("Whatcha wanna lookup? ")
+a = input("LLM")
 
 
 # URL of the XML object
